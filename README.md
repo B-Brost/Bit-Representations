@@ -4,7 +4,8 @@ BitSet Representations
 This C program is a simple implementation of a bit set, a data structure that allows for efficient manipulation of bits. It uses an unsigned short (16 bits) to represent the bit set. 
 The program provides functions to create:
 - a bit set
-- set or clear a specific bit
+- set a specific bit
+- clear a specific bit
 - get the value of a specific bit
 - display the bit set.
 
